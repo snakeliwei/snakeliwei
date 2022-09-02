@@ -1,9 +1,6 @@
-### Hi there 👋
+[![Metrics](./github-metrics.svg)](https://github.com/snakeliwei)
 
-<!--
-**snakeliwei/snakeliwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=willfindlay&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
